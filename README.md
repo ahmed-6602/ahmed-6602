@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 🔭 I'm currently working on cloud and data science projects while exploring AWS and DevOps tools.<br><br>• 👯 I'm looking to collaborate on cloud computing, data science, machine learning, and open-source projects.<br><br>• 🤝 I'm looking for help with AWS services, DevOps practices, cloud deployments, and real-world data science projects.<br><br>• 🌱 I'm currently learning AWS, Linux, Git, and DevOps fundamentals.<br><br>• 💬 Ask me about Python, Data Cleaning, Data Analysis, Machine Learning, and SQL.<br>•⚡ Fun fact: I love exploring new technologies and learning something new every day.
+• 🔭 I'm currently working on cloud and data science projects while exploring AWS and DevOps tools.<br><br>• 👯 I'm looking to collaborate on cloud computing, data science, machine learning, and open-source projects.<br><br>• 🤝 I'm looking for help with AWS services, DevOps practices, cloud deployments, and real-world data science projects.<br><br>• 🌱 I'm currently learning AWS, Linux, Git, and DevOps fundamentals.<br><br>• 💬 Ask me about Python, Data Cleaning, Data Analysis, Machine Learning, and SQL.<br>• ⚡ Fun fact: I love exploring new technologies and learning something new every day.
 
 
 ## 🌐 Socials:
